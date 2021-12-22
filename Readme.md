@@ -14,7 +14,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ### Tic Tac Toe
 
-[Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way
+[Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way, build just to learn React
 
 <p align="right">
 ...working on few more 😉 </p>
@@ -38,6 +38,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=php)
 ![Mysql](https://img.shields.io/badge/-Mysql-000?&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
 ### learning now
 
