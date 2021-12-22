@@ -24,6 +24,8 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 #### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Php](https://img.shields.io/badge/-Php-000?&logo=php)
+![Mysql](https://img.shields.io/badge/-Mysql-000?&logo=mysql)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
@@ -36,9 +38,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
-![Php](https://img.shields.io/badge/-Php-000?&logo=php)
-![Mysql](https://img.shields.io/badge/-Mysql-000?&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Materializecss](https://img.shields.io/badge/-Materializecss-000?&logo=Materializecss)
 
 ### learning now
 
