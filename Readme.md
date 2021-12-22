@@ -44,7 +44,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ![ReactJs](https://img.shields.io/badge/-React-000?&logo=react)
 
-```jsx
+```javascript
 {
   noErrors && <Happiness />;
 }
