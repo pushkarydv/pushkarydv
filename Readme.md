@@ -8,6 +8,10 @@
 
 [COLPIC : color picker](https://colpic.netlify.app/) This is basically a free color picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
 
+### <img src="https://colpic.netlify.app/favicon.png" height="16px" /> COLPIC : Color Picker - Beta
+
+[COLPIC : color picker - Beta](https://beta-colpic.netlify.app/) beta version of colpic
+
 ### <img src="https://devurl.netlify.app/logo.png" width="16px" /> DEVURL
 
 Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and links for various dev tools, so that you don't have to bookmark all and just one page
@@ -15,6 +19,10 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 ### Tic Tac Toe
 
 [Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way, build just to learn React
+
+### <img src="https://pushkaryadav.netlify.app/favicon-16x16.png" height="16px" /> Pushkar Yadav
+
+[Pushkar Yadav](https://pushkaryadav.netlify.app/) my Portfolio website
 
 <p align="right">
 ...working on few more 😉 </p>
