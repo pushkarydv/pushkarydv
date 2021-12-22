@@ -30,7 +30,6 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)
