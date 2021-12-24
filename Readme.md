@@ -29,8 +29,6 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ## Tech Stack 💻
 
-#### Languages
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=php)
 ![Mysql](https://img.shields.io/badge/-Mysql-000?&logo=mysql)
