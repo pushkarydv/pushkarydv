@@ -35,6 +35,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
