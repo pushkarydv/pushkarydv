@@ -4,6 +4,10 @@
 
 ## Creation 👨‍💻
 
+### <img src="https://pushkaryadav.netlify.app/favicon-16x16.png" height="16px" /> Pushkar Yadav
+
+[Pushkar Yadav](https://pushkaryadav.netlify.app/) my Portfolio website
+
 ### <img src="https://colpic.netlify.app/favicon/logo16.png" height="16px" /> COLPIC : Color Picker
 
 [COLPIC : color picker](https://colpic.netlify.app/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
@@ -16,9 +20,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 [Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way, build just to learn React
 
-### <img src="https://pushkaryadav.netlify.app/favicon-16x16.png" height="16px" /> Pushkar Yadav
 
-[Pushkar Yadav](https://pushkaryadav.netlify.app/) my Portfolio website
 
 <p align="right">
 ...working on few more 😉 </p>
