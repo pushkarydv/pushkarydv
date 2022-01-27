@@ -20,8 +20,6 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 [Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way, build just to learn React
 
-
-
 <p align="right">
 ...working on few more 😉 </p>
 
@@ -60,6 +58,10 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 ![Pushkar's Github Stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&count_private=true&show_icons=true)
 
 ### Thanks for Visiting my GitHub Profile!
+
+Don't go without a smile... Have a Random joke😅:
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ---
 
