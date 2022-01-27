@@ -57,11 +57,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ![Pushkar's Github Stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&count_private=true&show_icons=true)
 
-### Thanks for Visiting my GitHub Profile!
-
-Don't go without a smile... Have a Random joke😅:
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+## Thanks for Visiting my GitHub Profile!
 
 ---
 
