@@ -8,6 +8,10 @@
 
 [Pushkar Yadav](https://pushkaryadav.netlify.app/) my Portfolio website
 
+### <img src="https://websearcher.vercel.app/favicon.ico" height="16px" /> Web Searcher
+
+[Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
+
 ### <img src="https://colpic.netlify.app/favicon/logo16.png" height="16px" /> COLPIC : Color Picker
 
 [COLPIC : color picker](https://colpic.netlify.app/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
