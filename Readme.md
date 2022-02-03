@@ -39,7 +39,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ## 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🌐Socials
 
