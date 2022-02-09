@@ -45,4 +45,5 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ---
 
-![](https://komarev.com/ghpvc/?username=pushkarydv&label=Visitors+Count&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=pushkarydv&label=Visitors+Count&color=brightgreen) -->
+[![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
