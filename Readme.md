@@ -43,7 +43,7 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ## 🌐Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pushkaryadav_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pushkaryadav_)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pushkaryadav_)
 
 ---
 
