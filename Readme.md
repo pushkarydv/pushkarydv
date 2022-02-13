@@ -2,9 +2,9 @@
 </h1>
 <p align="center">  I like to explore interesting things, currently doing <b>Web Development</b></p>
 <p align="center">
- <a href="https://pushkaryadav.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://twitter.com/pushkaryadav_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a></p>
+ <a href="https://pushkaryadav.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://twitter.com/pushkaryadav_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a></p>
 
 # Creation 👨‍💻
 
