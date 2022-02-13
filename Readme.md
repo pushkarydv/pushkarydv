@@ -1,6 +1,10 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pushkar Yadav </br> 
 </h1>
 <p align="center">  I like to explore interesting things, currently doing <b>Web Development</b></p>
+<p align="center">
+ <a href="https://pushkaryadav.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://twitter.com/pushkaryadav_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a></p>
 
 # Creation 👨‍💻
 
@@ -39,9 +43,6 @@ Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and li
 
 ![](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=dracula&no-frame=true&margin-w=4) -->
 
-## 🌐Socials
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pushkaryadav_)
 
 ---
 
