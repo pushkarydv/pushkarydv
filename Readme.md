@@ -22,7 +22,7 @@
 
 ### <img src="https://devurl.netlify.app/logo.png" width="16px" /> DEVURL
 
-Presenting [DEVURL](https://devurl.netlify.app/) , here you can find docs and links for various dev tools, so that you don't have to bookmark all and just one page
+[DEVURL](https://devurl.netlify.app/) , here you can find docs and links for various dev tools, so that you don't have to bookmark all and just one page
 
 ### Tic Tac Toe
 
