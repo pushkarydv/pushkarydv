@@ -19,7 +19,7 @@
 
 ### <img src="https://colpic.netlify.app/favicon/logo16.png" height="16px" /> COLPIC : Color Picker
 
-[COLPIC : color picker](https://colpic.netlify.app/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
+[COLPIC : color picker](https://colpic.pushkaryadav.in/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
 
 ### <img src="https://devurl.netlify.app/logo.png" width="16px" /> DEVURL
 
