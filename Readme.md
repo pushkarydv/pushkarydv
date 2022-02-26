@@ -40,8 +40,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&show_icons=true&hide_border=true&count_private=true&include_all_commits=false)
 
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
-
 <details> <summary> GitHub Trophies 🏆</summary>
  
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)
@@ -52,4 +50,4 @@
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=pushkarydv&label=Visitors+Count&color=brightgreen) -->
 
-[![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)
