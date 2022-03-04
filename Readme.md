@@ -13,6 +13,10 @@
 
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website
 
+### <img src="https://prm.pushkaryadav.in/prm.svg" height="16px" /> PRM 
+
+[Project | Profile Readme Maker](https://prm.pushkaryadav.in/)  : easiest way to create amazing readme's for your github projects and profile
+
 ### <img src="https://websearcher.vercel.app/favicon.ico" height="16px" /> Web Searcher
 
 [Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
