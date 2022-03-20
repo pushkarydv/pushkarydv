@@ -13,6 +13,9 @@
 
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website
 
+### <img src="https://wg.pushkaryadav.in/logo.svg" height="16px" /> WG
+[Web Games](https://wg.pushkaryadav.in/) Play some of the simple games in a minimal way
+
 ### <img src="https://mdb.pushkaryadav.in/logo.svg" height="16px" /> MDB 
 
 [Markdown Badges](https://mdb.pushkaryadav.in/) Generate amazing svg markdown badges within few clicks
