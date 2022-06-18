@@ -13,12 +13,16 @@
 
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website
 
-### <img src="https://wg.pushkaryadav.in/logo.svg" height="16px" /> WG
-[Web Games](https://wg.pushkaryadav.in/) Play some of the simple games in a minimal way
-
 ### <img src="https://mdb.pushkaryadav.in/logo.svg" height="16px" /> MDB 
 
 [Markdown Badges](https://mdb.pushkaryadav.in/) Generate amazing svg markdown badges within few clicks
+
+### <img src="https://apix.pushkaryadav.in/logo.png" height="16px" /> APIX 
+
+[APIX](https://apix.pushkaryadav.in/) APIX provides a list and docs 1400+ public api's, so that you can build your dream projects sooner
+
+### <img src="https://wg.pushkaryadav.in/logo.svg" height="16px" /> WG
+[Web Games](https://wg.pushkaryadav.in/) Play some of the simple games in a minimal way
 
 ### <img src="https://prm.pushkaryadav.in/prm.svg" height="16px" /> PRM 
 
