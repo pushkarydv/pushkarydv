@@ -9,7 +9,7 @@
 
 # 👨‍💻 Creation
 
-### <img src="https://pushkaryadav.in/favicon-16x16.png" height="16px" /> Pushkar Yadav
+### <img src="https://pushkaryadav.in/logo.png" height="16px" /> Pushkar Yadav
 
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website
 
