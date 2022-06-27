@@ -17,6 +17,9 @@
 
 [Markdown Badges](https://mdb.pushkaryadav.in/) Generate amazing svg markdown badges within few clicks
 
+### <img src="https://summerx.itsvg.in/logo.png" width="16px" />  SummerX
+Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
+
 ### <img src="https://apix.pushkaryadav.in/logo.png" height="16px" /> APIX 
 
 [APIX](https://apix.pushkaryadav.in/) APIX provides a list and docs 1400+ public api's, so that you can build your dream projects sooner
