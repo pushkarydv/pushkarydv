@@ -21,7 +21,7 @@
 
 Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
 
-### <img src="https://payon.pushkaryadav.in/logo.png" width="16px" /> SummerX
+### <img src="https://payon.pushkaryadav.in/logo.png" width="16px" /> Payon
 
 [Payon](https://payon.pushkaryadav.in) is a template website to show you a better approach of making payments having a simple and interactive interface.This is a prototype website
 
