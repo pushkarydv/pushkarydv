@@ -17,13 +17,18 @@
 
 [Markdown Badges](https://mdb.pushkaryadav.in/) Generate amazing svg markdown badges within few clicks
 
-### <img src="https://summerx.itsvg.in/logo.png" width="16px" /> SummerX
-
-Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
-
 ### <img src="https://ibox.pushkaryadav.in/logo.png" width="16px" /> IBOX
 
 [IBOX](https://ibox.pushkaryadav.in) All in one solution for your all needs of insta. Download Posts, Reels, IGTV videos and analyze any public profile for its followers, following, rand and a whole lot of data.
+
+### <img src="https://websearcher.vercel.app/favicon.ico" height="16px" /> Web Searcher
+
+[Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
+
+
+### <img src="https://summerx.itsvg.in/logo.png" width="16px" /> SummerX
+
+Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
 
 ### <img src="https://payon.pushkaryadav.in/logo.png" width="16px" /> Payon
 
@@ -41,11 +46,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 [Project | Profile Readme Maker](https://prm.pushkaryadav.in/) : easiest way to create amazing readme's for your github projects and profile
 
-### <img src="https://websearcher.vercel.app/favicon.ico" height="16px" /> Web Searcher
-
-[Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
-
-### <img src="https://colpic.netlify.app/favicon/logo16.png" height="16px" /> COLPIC : Color Picker
+### <img src="https://colpic.pushkaryadav.in/favicon/favicon.svg" height="16px" /> COLPIC : Color Picker 
 
 [COLPIC : color picker](https://colpic.pushkaryadav.in/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
 
