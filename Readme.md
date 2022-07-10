@@ -21,6 +21,10 @@
 
 Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
 
+### <img src="https://ibox.pushkaryadav.in/logo.png" width="16px" /> IBOX
+
+[IBOX](https://ibox.pushkaryadav.in) All in one solution for your all needs of insta. Download Posts, Reels, IGTV videos and analyze any public profile for its followers, following, rand and a whole lot of data.
+
 ### <img src="https://payon.pushkaryadav.in/logo.png" width="16px" /> Payon
 
 [Payon](https://payon.pushkaryadav.in) is a template website to show you a better approach of making payments having a simple and interactive interface.This is a prototype website
