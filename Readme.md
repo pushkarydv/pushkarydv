@@ -88,11 +88,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&show_icons=true&hide_border=true&count_private=true&include_all_commits=false)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarydv&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-<details> <summary> GitHub Trophies 🏆</summary>
- 
-![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)
-</details>
+## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
 <p align="center">
 <img src="https://github.com/pushkarydv/pushkarydv/blob/output/github-contribution-grid-snake.svg">
