@@ -21,6 +21,10 @@
 
 [IBOX](https://ibox.pushkaryadav.in) All in one solution for your all needs of insta. Download Posts, Reels, IGTV videos and analyze any public profile for its followers, following, rand and a whole lot of data.
 
+### <img src="https://nextos.pushkaryadav.in/logo.png" width="16px" /> NextOS
+
+[NextOS](https://nextos.pushkaryadav.in) A Modern Operating System design built into a Website using Next JS and Tailwind CSS.
+
 ### <img src="https://websearcher.vercel.app/favicon.ico" height="16px" /> Web Searcher
 
 [Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
