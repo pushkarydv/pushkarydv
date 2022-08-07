@@ -11,7 +11,7 @@
 
 ### <img src="https://pushkaryadav.in/logo.png" height="16px" /> Pushkar Yadav
 
-[Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website
+[Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website ✨
 
 ### <img src="https://mdb.pushkaryadav.in/logo.svg" height="16px" /> MDB
 
