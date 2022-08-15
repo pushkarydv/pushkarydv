@@ -121,6 +121,10 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&show_icons=true&hide_border=true&count_private=true&include_all_commits=false)
 
+## GitHub Streaks 🔥
+
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&date_format=j%20M%5B%20Y%5D&hide_border=true)
+
 ## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
 ```javascript
@@ -129,10 +133,6 @@ if (erorr) {
 }
 // perfect solution - Pushkar yadav
 ```
-
-## GitHub Streaks 🔥
-
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&date_format=j%20M%5B%20Y%5D&hide_border=true)
 
 <p align="center">
 <img src="https://github.com/pushkarydv/pushkarydv/blob/output/github-contribution-grid-snake.svg">
