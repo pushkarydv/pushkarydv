@@ -1,11 +1,11 @@
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px">, I'm Pushkar Yadav </br> 
+<h1 align="center"> Hi 👋 I'm Pushkar Yadav </br> 
 </h1>
 <p align="center">  I like to explore interesting things, currently doing <b>Web Development</b></p>
+
 <p align="center">
- <a href="https://pushkaryadav.in/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://twitter.com/pushkaryadavin" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" />
- </a><a href="https://www.buymeacoffee.com/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a></p>
+ <a href="https://pushkaryadav.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/pushkaryadavin" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 ## 👨‍💻 Creation
 
@@ -29,7 +29,6 @@
 
 [Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
 
-
 ### <img src="https://summerx.itsvg.in/logo.png" width="16px" /> SummerX
 
 Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
@@ -50,7 +49,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 [Project | Profile Readme Maker](https://prm.pushkaryadav.in/) : easiest way to create amazing readme's for your github projects and profile
 
-### <img src="https://colpic.pushkaryadav.in/favicon/favicon.svg" height="16px" /> COLPIC : Color Picker 
+### <img src="https://colpic.pushkaryadav.in/favicon/favicon.svg" height="16px" /> COLPIC : Color Picker
 
 [COLPIC : color picker](https://colpic.pushkaryadav.in/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
 
@@ -65,28 +64,58 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 <p align="right">
 ...working on few more 😉 </p>
 
-## 💻Tech Stack
+## Tech Stack 💻
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge&color=242b2e)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge&color=242b2e)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge&color=242b2e)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white&style=for-the-badge&color=242b2e)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge&color=242b2e)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge&color=242b2e)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge&color=242b2e)
-![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge&color=242b2e)
-![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge&color=242b2e)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge&color=242b2e)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge&color=242b2e)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge&color=242b2e)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge&color=242b2e)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge&color=242b2e)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&color=242b2e)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&color=242b2e&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&color=242b2e) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&color=242b2e) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&color=242b2e) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&color=242b2e) 
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![PHP](https://img.shields.io/badge/php-000?logo=php&logoColor=white&style=for-the-badge)
+
+#### JS Framework/Library
+
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+
+#### CSS Framework/Library/Pre-processors
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MaterializeCSS](https://img.shields.io/badge/-MaterializeCSS-000?style=for-the-badge&logo=MaterializeCSS)
+
+#### Design/Visual Tools
+
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+
+#### Database/State
+
+![MySQL](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=Mysql)
+
+#### Backend
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+
+#### Web Hosting
+
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### Package Manager
+
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+
+#### Version Control
+
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ## Current GitHub Stats 📊
 
@@ -94,9 +123,19 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
+```javascript
+if (erorr) {
+  window.open(`https://stackoverflow.com/search?q=${error.message}`, "_blank");
+}
+// perfect solution - Pushkar yadav
+```
+
+## GitHub Streaks 🔥
+
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&date_format=j%20M%5B%20Y%5D&hide_border=true)
+
 <p align="center">
 <img src="https://github.com/pushkarydv/pushkarydv/blob/output/github-contribution-grid-snake.svg">
 </p>
-<!-- ![](https://komarev.com/ghpvc/?username=pushkarydv&label=Visitors+Count&color=brightgreen) -->
 
 ![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)
