@@ -123,7 +123,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## GitHub Streaks 🔥
 
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkaryadavin&date_format=j%20M%5B%20Y%5D&hide_border=true)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&date_format=j%20M%5B%20Y%5D)
 
 ## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
