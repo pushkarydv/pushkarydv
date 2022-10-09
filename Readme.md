@@ -136,8 +136,4 @@ if (erorr) {
 // perfect solution - Pushkar yadav
 ```
 
-<p align="center">
-<img src="https://github.com/pushkarydv/pushkarydv/blob/output/github-contribution-grid-snake.svg">
-</p>
-
 ![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)
