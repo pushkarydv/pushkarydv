@@ -13,6 +13,10 @@
 
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website ✨
 
+### Quotier - Readme Quotes
+
+[Quotier](https://github.com/pushkarydv/quotier-readme-quotes) - API for Quotes📑 in JSON and rendered SVG form - Use it anywhere on GitHub, Your Website or wherever you like✨
+
 ### <img src="https://mdb.pushkaryadav.in/logo.svg" height="16px" /> MDB
 
 [Markdown Badges](https://mdb.pushkaryadav.in/) Generate amazing svg markdown badges within few clicks
