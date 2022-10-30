@@ -127,7 +127,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## GitHub Streaks 🔥
 
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
 ![QUOTES](https://quotier.vercel.app/quote)
 
