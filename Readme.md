@@ -117,6 +117,9 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
+## Latest Tweets
+[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin)](https://tweeco.pushkaryadav.in)
+
 ```javascript
 if (erorr) {
   window.open(`https://stackoverflow.com/search?q=${error.message}`, "_blank");
