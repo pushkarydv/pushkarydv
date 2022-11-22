@@ -12,6 +12,9 @@
 ### <img src="https://pushkaryadav.in/logo.png" height="16px" /> Pushkar Yadav
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website ✨
 
+### <img src="https://tweeco.pushkaryadav.in/images/tweeco_logo.png" height="16px" /> Tweeco : tweet-integrator
+[Tweeco](https://github.com/pushkarydv/tweeco-tweet-integrator) -Tweets✒️ shouldn't be limited to twitter🐧 : Let's integrate them anywhere fully rendered✨ with this simple API.
+
 ### Quotier - Readme Quotes
 [Quotier](https://github.com/pushkarydv/quotier-readme-quotes) - API for Quotes📑 in JSON and rendered SVG form - Use it anywhere on GitHub, Your Website or wherever you like✨
 
