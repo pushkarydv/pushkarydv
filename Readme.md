@@ -71,10 +71,6 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 [DEVURL](https://devurl.netlify.app/) , here you can find docs and links for various dev tools, so that you don't have to bookmark all and just one page. If there is something you have go and add into it's open source repository.
 
-### Tic Tac Toe
-
-[Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way, build just to learn React
-
 <p align="right">
 ...working on few more 😉 </p>
 
