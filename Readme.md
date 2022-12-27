@@ -8,54 +8,71 @@
 ## 👨‍💻 Creation
 
 ### <img src="https://pushkaryadav.in/logo.png" height="16px" /> Pushkar Yadav
+
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website ✨
 
 ### <img src="https://anomm.pushkaryadav.in/logo.png" height="16px" /> Anomm: Anonymous messages in a completely different way
+
 [Anomm](https://anomm.pushkaryadav.in/) - Anomm is a free service to deliver anonymous messages directly to your telegram via bot. this can be integrated anywhere community reviews, confession pages, personal thoughts and a lot more.
 
 ### <img src="https://tweeco.pushkaryadav.in/images/tweeco_logo.png" height="16px" /> Tweeco : tweet-integrator
+
 [Tweeco](https://github.com/pushkarydv/tweeco-tweet-integrator) -Tweets✒️ shouldn't be limited to twitter🐧 : Let's integrate them anywhere fully rendered✨ with this simple API.
 
 ### Quotier - Readme Quotes
+
 [Quotier](https://github.com/pushkarydv/quotier-readme-quotes) - API for Quotes📑 in JSON and rendered SVG form - Use it anywhere on GitHub, Your Website or wherever you like✨
 
 ### <img src="https://mdb.pushkaryadav.in/logo.svg" height="16px" /> MDB: Markdown Badges
+
 [Markdown Badges](https://mdb.pushkaryadav.in/) Generate amazing svg markdown badges within few clicks
 
 ### <img src="https://ibox.pushkaryadav.in/logo.png" width="16px" /> IBOX: Download insta posts with super high speed
+
 [IBOX](https://ibox.pushkaryadav.in) All in one solution for your all needs of insta. Download Posts, Reels, IGTV videos and analyze any public profile for its followers, following, rand and a whole lot of data.
 
 ### <img src="https://nextos.pushkaryadav.in/logo.png" width="16px" /> NextOS: The Ultimate OS experince
+
 [NextOS](https://nextos.pushkaryadav.in) A Modern Operating System design built into a Website using Next JS and Tailwind CSS.
 
 ### <img src="https://websearcher.vercel.app/favicon.ico" height="16px" /> Web Searcher: Built Meta Tags in Seconds
+
 [Web Searcher](https://websearcher.vercel.app/) Generate meta tags in some clicks and Rank top in search engines.You can generate Open graph, twitter and basic meta tags just in one click and a lot of adjustments in them.
 
 ### <img src="https://summerx.itsvg.in/logo.png" width="16px" /> SummerX: Mission to Save Lives💖
+
 Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
 
 ### Scheduler: Elevate your healthcare experience with our convenient online scheduler.
+
 [Scheduler](https://github.com/pushkarydv/hackzon2023) is a template website to show you a better healthcare experince where doctors, patients and data can all be organized with ease in appointments with low fees and best consultancy.
 
 ### <img src="https://payon.pushkaryadav.in/logo.png" width="16px" /> Payon: Template to payment website
+
 [Payon](https://payon.pushkaryadav.in) is a template website to show you a better approach of making payments having a simple and interactive interface.This is a prototype website
 
 ### <img src="https://apix.pushkaryadav.in/logo.png" height="16px" /> APIX: Collection of Powerful Free APIs🚀
+
 [APIX](https://apix.pushkaryadav.in/) APIX provides a list and docs 1400+ public api's, so that you can build your dream projects sooner
 
 ### <img src="https://wg.pushkaryadav.in/logo.svg" height="16px" /> WG: Web Games-Minimal Games
+
 [Web Games](https://wg.pushkaryadav.in/) Play some of the simple games in a minimal way
 
 ### <img src="https://prm.pushkaryadav.in/prm.svg" height="16px" /> PRM: Project | Profile Readme Maker
+
 [Project | Profile Readme Maker](https://prm.pushkaryadav.in/) : easiest way to create amazing readme's for your github projects and profile
 
 ### <img src="https://colpic.pushkaryadav.in/favicon/favicon.svg" height="16px" /> COLPIC : Color Picker
+
 [COLPIC : color picker](https://colpic.pushkaryadav.in/) This is basically a free color, gradient picker. you just have to click on colors to copy them and paste them into your projects directly, no need to search for colors here and there😉
 
 ### <img src="https://devurl.netlify.app/logo.png" width="16px" /> DEVURL: Collection of daily use websites
+
 [DEVURL](https://devurl.netlify.app/) , here you can find docs and links for various dev tools, so that you don't have to bookmark all and just one page. If there is something you have go and add into it's open source repository.
 
 ### Tic Tac Toe
+
 [Tic Tac Toe](https://tic-tac-toe-0.netlify.app/) is a website where you can play tic tac toe in a minimal way, build just to learn React
 
 <p align="right">
@@ -127,13 +144,13 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 ## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
 ## Latest Tweets
+
 [![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin?bg=264348)](https://twitter.com/pushkaryadavin)
 
 ```javascript
-if (erorr) {
-  window.open(`https://stackoverflow.com/search?q=${error.message}`, "_blank");
+if (pushkarydv.isCoding) {
+  tagline.set("perfect");
 }
-// perfect solution - Pushkar yadav
 ```
 
 ![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)
