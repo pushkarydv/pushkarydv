@@ -87,6 +87,8 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 #### Database/State
 
 ![MySQL](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=Mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-000.svg?logo=firebase&logoColor=white&style=for-the-badge)
 
 #### Backend
 
