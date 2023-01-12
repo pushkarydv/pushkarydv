@@ -33,6 +33,9 @@
 ### <img src="https://summerx.itsvg.in/logo.png" width="16px" /> SummerX: Mission to Save Lives💖
 Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save lives of people who suffer from heat waves 🍃, excessive heat 🥵, illness and more. This is a prototype website.
 
+### Scheduler: Elevate your healthcare experience with our convenient online scheduler.
+[Scheduler](https://github.com/pushkarydv/hackzon2023) is a template website to show you a better healthcare experince where doctors, patients and data can all be organized with ease in appointments with low fees and best consultancy.
+
 ### <img src="https://payon.pushkaryadav.in/logo.png" width="16px" /> Payon: Template to payment website
 [Payon](https://payon.pushkaryadav.in) is a template website to show you a better approach of making payments having a simple and interactive interface.This is a prototype website
 
