@@ -120,7 +120,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## Current GitHub Stats 📊
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&show_icons=true&hide_border=false&count_private=true)
+![Stats](https://github-stats-alpha.vercel.app/api/?username=pushkarydv)
 
 ## GitHub Streaks 🔥
 
