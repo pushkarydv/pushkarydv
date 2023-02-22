@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/96358784/220643871-6f82c416-d505-44c7-8bb3-2bbb440225a7.jpg)
+![Hello I'm Pushkar](https://user-images.githubusercontent.com/96358784/220644786-a5b57d2d-4486-466d-92b2-d64e5c798846.jpg)
 
 <p align="center">
  <a href="https://pushkaryadav.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
