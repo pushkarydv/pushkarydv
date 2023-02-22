@@ -1,6 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Pushkar Yadav </br> 
-</h1>
-<p align="center">  I like to explore interesting things, currently doing <b>Web Development</b></p>
+![header](https://user-images.githubusercontent.com/96358784/220643871-6f82c416-d505-44c7-8bb3-2bbb440225a7.jpg)
 
 <p align="center">
  <a href="https://pushkaryadav.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
