@@ -118,16 +118,16 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## Current GitHub Stats 📊
 
-![Stats](https://github-stats-alpha.vercel.app/api/?username=pushkarydv)
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkarydv&count_private=true&theme=dracula)
 
 ## GitHub Streaks 🔥
 
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&hide_border=false&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=pushkarydv&hide_border=false&date_format=j%20M%5B%20Y%5D&theme=dracula)
 
 ## <details> <summary> GitHub Trophies 🏆</summary> ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=pushkarydv&theme=gruvbox&no-bg=true&no-frame=true)</details>
 
 ## Latest Tweets
-[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin?bg=BF55EC)](https://twitter.com/pushkaryadavin)
+[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin?bg=264348)](https://twitter.com/pushkaryadavin)
 
 ```javascript
 if (erorr) {
