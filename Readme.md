@@ -141,7 +141,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## Latest Tweets
 
-[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin?bg=264348)](https://twitter.com/pushkaryadavin)
+[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin?bg=264348)](https://tweeco.pushkaryadav.in)
 
 ```javascript
 if (pushkarydv.isCoding) {
