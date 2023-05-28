@@ -141,7 +141,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 
 ## Latest Tweets
 
-[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin)](https://tweeco.pushkaryadav.in)
+[![](https://tweeco.pushkaryadav.in/api/handle/pushkaryadavin?theme=dracula)](https://tweeco.pushkaryadav.in)
 
 ```javascript
 if (pushkarydv.isCoding) {
