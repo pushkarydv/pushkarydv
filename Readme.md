@@ -11,7 +11,7 @@
 
 [Pushkar Yadav](https://pushkaryadav.in/) my Portfolio website ✨
 
-### <img src="https://mg/logo.png" height="16px" /> Message Gaotr:  Integrate Message, Review, and Feedback Sleamlessly
+### <img src="https://mg.pushkaryadav.in/logo.png" height="16px" /> Message Gator:  Integrate Message, Review, and Feedback Sleamlessly
 
 With [Message Gator](https://mg.pushkaryadav.in/) you can create message widgets and integrate them with your website in just clicks. You can also view your messages in the dashboard.
 
