@@ -1,14 +1,12 @@
-name: Build CV
-
+name: Build LaTeX document
 on: [push]
-
 jobs:
-  cv-job:
+  build_latex:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: olivierodo/awesome-cv-action@0.0.2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        FILE_NAME: 'cv.tex'
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Compile LaTeX document
+        uses: dante-ev/latex-action@latest
+        with:
+          root_file: main.tex
