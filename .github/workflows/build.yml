@@ -1,14 +1,17 @@
-name: CV-BUILDER
-
+name: Build LaTeX document
 on: [push]
-
 jobs:
-  build-cv-job:
+  build_latex:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: olivierodo/awesome-cv-action@0.0.2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        FILE_NAME: 'cv.tex'
+      - name: Set up Git repository
+        uses: actions/checkout@v4
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: main.tex
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v4
+        with:
+          name: PDF
+          path: resume.pdf
