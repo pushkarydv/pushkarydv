@@ -1,17 +1,35 @@
 name: Build LaTeX document
-on: [push]
+
+on:
+  push:
+    branches: [ main ]
+
 jobs:
+
   build_latex:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Set up Git repository
-        uses: actions/checkout@v4
-      - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v3
-        with:
-          root_file: main.tex
-      - name: Upload PDF file
-        uses: actions/upload-artifact@v4
-        with:
-          name: PDF
-          path: resume.pdf
+    - name: Check if push is from GitHub Actions
+      if: ${{ github.event.head_commit.author.name != 'GitHub Action' }}
+      run: |
+        echo "Push is not from GitHub Actions, continuing workflow..."
+
+    - name: Checkout Repository
+      if: ${{ github.event.head_commit.author.name != 'GitHub Action' }}
+      uses: actions/checkout@v3
+
+    - name: Compile LaTeX document
+      if: ${{ github.event.head_commit.author.name != 'GitHub Action' }}
+      uses: xu-cheng/latex-action@v3
+      with:
+        root_file: main.tex
+
+    - name: Commit and Push Changes
+      if: ${{ github.event.head_commit.author.name != 'GitHub Action' }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add resume.pdf
+        git commit -m "Generated resume.pdf"
+        git push
