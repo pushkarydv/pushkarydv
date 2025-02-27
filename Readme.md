@@ -165,4 +165,4 @@ if (pushkarydv.isCoding) {
 }
 ```
 
-![](https://visitcount.itsvg.in/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)
+![](https://visitcountpro.netlify.app/api?id=pushkarydv&label=Profile%20Views&icon=8&pretty=true)
