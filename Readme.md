@@ -15,6 +15,10 @@
 
 With [Message Gator](https://mg.pushkaryadav.in/) you can create message widgets and integrate them with your website in just clicks. You can also view your messages in the dashboard.
 
+### <img src="https://memory-in-images.vercel.app/logo.png" height="16px" /> Memory In Images
+
+[Memory In Images](https://memory-in-images.vercel.app) - Search within your images using natural language. This application allows you to upload images, automatically analyze them, and later search through them using conversational queries. [Github: pushkarydv/memory-in-images](https://github.com/pushkarydv/memory-in-images)
+
 ### <img src="https://notez.writewrap.in/logo.png" height="16px" /> Notez : Connect, Create, Share - Your Heartfelt Messages, Your Way
 
 [Notez](https://notez.writewrap.in/) - Unlock heartfelt connections with Notez - the dynamic notes service. Create and share personalized messages effortlessly. Dive into a world of creativity with private, public, or vibrant picture notes. Instant, personalized messaging at your fingertips.
@@ -22,6 +26,10 @@ With [Message Gator](https://mg.pushkaryadav.in/) you can create message widgets
 ### <img src="https://mernifier.itsvg.in/logo.png" height="16px" />  MERNifier: Supercharge Your Development!
 
 [Mernifier](https://mernifier.itsvg.in/) elevates your development game. Generate test cases, squash bugs, and autocomplete efficiently. Trained on the latest data. Your go-to for MERN mastery!
+
+### Realtime Multilingual Video
+
+[Repp: Realtime Multilingual Video](https://github.com/pushkarydv/realtime-multilingual-video) - mini-project of final year, not fully functional but this creates realtime transcription, translation, summary and also video sound conversion to any other language in the same tone (not fully achieved).
 
 ### <img src="https://web-frame-lib.vercel.app/logo.png" height="16px" /> Web Frame Lib
 
