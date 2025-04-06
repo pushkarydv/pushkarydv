@@ -29,7 +29,7 @@ With [Message Gator](https://mg.pushkaryadav.in/) you can create message widgets
 
 ### Realtime Multilingual Video
 
-[Repp: Realtime Multilingual Video](https://github.com/pushkarydv/realtime-multilingual-video) - mini-project of final year, not fully functional but this creates realtime transcription, translation, summary and also video sound conversion to any other language in the same tone (not fully achieved).
+[Repo: Realtime Multilingual Video](https://github.com/pushkarydv/realtime-multilingual-video) - mini-project of final year, not fully functional but this creates realtime transcription, translation, summary and also video sound conversion to any other language in the same tone (not fully achieved).
 
 ### <img src="https://web-frame-lib.vercel.app/logo.png" height="16px" /> Web Frame Lib
 
