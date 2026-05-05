@@ -1,224 +1,125 @@
-\documentclass[letterpaper,11pt]{article}
+\documentclass[letterpaper,10pt]{article}
 
-\usepackage{latexsym}
 \usepackage[empty]{fullpage}
 \usepackage{titlesec}
-\usepackage{marvosym}
 \usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
 \usepackage{enumitem}
 \usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
-\usepackage{hyphenat}
-\usepackage{fontawesome}
-\input{glyphtounicode}
+\usepackage{geometry}
 
-\pagestyle{fancy}
-\fancyhf{}
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+\geometry{left=0.5in, right=0.5in, top=0.4in, bottom=0.4in}
 
-% Adjust margins
-\addtolength{\oddsidemargin}{-0.75in}
-\addtolength{\evensidemargin}{-0.75in}
-\addtolength{\textwidth}{1.5in}
-\addtolength{\topmargin}{-0.75in}
-\addtolength{\textheight}{1.5in}
+\pagestyle{empty}
 
-\urlstyle{same}
-
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
-
-% Sections formatting
-\titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
-
-\pdfgentounicode=1
-
-%-------------------------
-% Custom commands
-
-\newcommand{\resumeItem}[1]{
-  \item\small{
-    {#1 \vspace{-2pt}}
-  }
-}
+\titleformat{\section}{\large\bfseries\scshape}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{6pt}{4pt}
 
 \newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+  \vspace{-1pt}\item
+    \begin{tabularx}{\textwidth}{Xr}
       \textbf{#1} & #2 \\
       \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabularx}\vspace{-5pt}
 }
 
-\newcommand{\resumeSubSubheading}[2]{
-    \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeEducationHeading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-5pt}
-}
-
-\newcommand{\resumeProjectHeading}[2]{
-    \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeOrganizationHeading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textit{\small #2} \\
-      \textit{\small#3}
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeItem}[1]{\item\small{#1}\vspace{-2pt}}
 
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
-%-------------------------------------------
-%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 
-%---------- HEADING ----------
-
+% ---------- HEADER ----------
 \begin{center}
-    \textbf{\Huge \scshape Pushkar Yadav} \\ \vspace{3pt}
-    \small
-    \faMobile \hspace{.5pt} \href{tel:918278622243}{+918278622243}
-    $|$
-    \faAt \hspace{.5pt} \href{mailto:pushkaryadavin@gmail.com}{pushkaryadavin@gmail.com}
-    $|$
-    \faLinkedinSquare \hspace{.5pt} \href{https://www.linkedin.com/in/pushkarydv/}{LinkedIn}
-    $|$
-    \faGithub \hspace{.5pt} \href{http://github.com/pushkarydv}{GitHub}
-    $|$
-    \faGlobe \hspace{.5pt} \href{https://pushkaryadav.in}{Portfolio}
-    $|$
-    \faMapMarker \hspace{.5pt} \href{https://www.google.com/maps/place/new+delhi+india/data=!4m2!3m1!1s0x390cfd5b347eb62d:0x52c2b7494e204dce?sa=X&ved=1t:155783&ictx=111}{New Delhi, India}
+  {\LARGE \textbf{Pushkar Yadav}} \\[4pt]
+  \small
+  +91-8278622243 \,$|$\,
+  \href{mailto:pushkaryadavin@gmail.com}{pushkaryadavin@gmail.com} \,$|$\,
+  \href{https://www.linkedin.com/in/pushkarydv}{LinkedIn} \,$|$\,
+  \href{https://github.com/pushkarydv}{GitHub} \,$|$\,
+  \href{https://www.pushkaryadav.in}{Portfolio} \,$|$\,
+  \href{https://blog.pushkaryadav.in}{Blog} \,$|$\,
+  New Delhi, India
 \end{center}
 
-% %----------- EDUCATION -----------
-
-% \section{Education}
-%   \vspace{2pt}
-%   \resumeSubHeadingListStart
-%     \resumeEducationHeading
-%       {Bachelor of Technology in Computer Science}{Sept 2021 -- July 2025}
-%       {RTU Kota}{India}
-%   \resumeSubHeadingListEnd
-
-%----------- SKILLS -----------
-
-\section{Skills}
-  \vspace{2pt}
-  \resumeSubHeadingListStart
-    \small{\item{
-         \textbf{Programming Languages:}{ JavaScript, C, Python, PHP, Shell } \\ \vspace{3pt}
-         \textbf{Frameworks:}{ NextJS, ReactJS, TailwindCSS, Bootstrap, Framer, MUI, FFmpeg, ElectronJs} \\ \vspace{3pt}
-         \textbf{Tools \& Technologies:}{ Figma, SASS, Firebase, MongoDB, NodeJS, ExpressJS, Prisma, Git, GitHub, Langchain, Pinecone, Github Actions, Polaris} \\ \vspace{3pt}
-        \textbf{Interpersonal Skills:}{ Managing Projects, Leading Teams, Working Collaboratively} \\ \vspace{3pt}
-    }}
-  \resumeSubHeadingListEnd
-
-%----------- EXPERIENCE -----------
-
-%----------- EXPERIENCE -----------
-
+% ---------- EXPERIENCE ----------
 \section{Experience}
-    \resumeSubHeadingListStart
-    
-    \resumeSubheading{Frautect}{Remote}
-    {Full Stack Developer — Web \& AI}{Dec 2024 -- Present}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {\href{https://www.amalgamic.io}{Amalgamic}}{Remote (US / India)}
+    {Founding Engineer, Web \& AI}{Sep 2025 -- Present}
     \resumeItemListStart
-    \resumeItem{Engineered large-scale data scraping pipelines, integrating AI architectures using SLMs and custom models for intelligent automation.}
-    \resumeItem{Designed and deployed an advanced brand protection system.}
+      \resumeItem{Architected and built the full-stack fintech platform from ground up: user auth, credit bureau integration, Plaid-based card linking for transactions and liabilities across all user credit cards.}
+      \resumeItem{Designed event-driven financial insights engine using AWS Lambda, processing transaction data to surface fees, subscriptions, spend categories, and actionable bureau insights in real time.}
+      \resumeItem{Built an AI-powered financial chatbot with tool-calling architecture; session-aware with cross-user data leakage prevention, achieving $<$2s TTFT on complex financial queries.}
+      \resumeItem{Integrated agentic workflow system enabling users to assign tasks (subscription cancellations, disputes) via chatbot with automated email notifications through tool calls.}
+      \resumeItem{Scaled engineering team from 1 to multiple engineers as product moved into active user testing in the US market.}
     \resumeItemListEnd
 
-    \resumeSubheading{Zura Ventures}{India / Remote}
+  \resumeSubheading
+    {\href{https://www.frautect.com}{Frautect}}{Remote}
+    {Full Stack Developer, Web \& AI}{Dec 2024 -- Aug 2025}
+    \resumeItemListStart
+      \resumeItem{Built large-scale app store scraping pipeline processing 500K+ apps daily across Google Play and Apple App Store, maintaining a continuously refreshed fraud detection dataset.}
+      \resumeItem{Developed internal labeling dashboard for fraud classification: impersonation detection, brand linking, and sector categorization across 26K+ flagged applications.}
+      \resumeItem{Engineered AFT (Automated Fraud Tagging) system combining RAG-based similarity search, icon image matching, SLMs, and 10+ heuristic parameters, achieving 90\%+ detection accuracy.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {\href{https://www.skailama.com}{Zura Ventures (Skai Lama)}}{India / Remote}
     {Software Engineer Intern}{Apr 2023 -- Aug 2023}
     \resumeItemListStart
-    \resumeItem{Increased business sales by developing high-impact B2B Shopify apps used by 10k+ merchants with over \$2M comboned revenue.}
-    \resumeItem{Worked on building apps (GiftKart, Free Gift : Kite, Easy Bundles) improving customer engagement with almost all 5 star reviews.}
+      \resumeItem{Developed high-impact B2B Shopify apps serving 10K+ merchants with \$2M+ combined revenue using MongoDB, GraphQL, Shopify APIs, and React-Polaris.}
+      \resumeItem{Independently built and shipped ``Kite Free Gifting App'' end-to-end; 5-star rated and one of the brand's most adopted apps.}
     \resumeItemListEnd
-    
-    \resumeSubheading{Cosmofeed}{India / Remote}
-    {Software Engineer Intern}{Nov 2022 -- Dec 2022}
+
+  \resumeSubheading
+    {Freelance \& Open Source}{Remote}
+    {Independent Developer}{Dec 2021 -- Sep 2025}
     \resumeItemListStart
-    \resumeItem{Contributed to the launch of a bio link platform, collecting data from users before pre-release.}
-    \resumeItemListEnd
-    
-    \resumeSubheading{Freelance Development}{Remote}{Open-Source Developer}{Dec 2021 -- Present}
-    \resumeItemListStart
-    \resumeItem{Created open-source applications utilized by over 15,000 users, with a focus on SEO (1st in just days), lowest LCP (95\% decrease), and customer-centric features.}
+      \resumeItem{Built and shipped 20+ developer tools and products used by 25K+ users including \href{https://mdb.pushkaryadav.in}{Markdown Badges} (\#5 Product of the Day on ProductHunt), \href{https://mg.writewrap.in}{Message Gator} (73K+ requests served), \href{https://anomm.pushkaryadav.in}{Anomm}, and \href{https://tweeco.pushkaryadav.in}{Tweeco}.}
+      \resumeItem{Recognized by Microsoft for Startups for \href{https://labs.writewrap.in}{WriteWrap Labs} tools. View all projects: \href{https://github.com/pushkarydv}{github.com/pushkarydv} | \href{https://www.pushkaryadav.in}{pushkaryadav.in}}
     \resumeItemListEnd
 
-    \resumeSubheading{Community Engagement}{On-Site}{Volunteer Roles}{Dec 2021 -- Present}
-    \resumeItemListStart
-    \resumeItem{Google DSC Lead (Jul 2023 - July 2024), GDSC Web Development Lead (Sept 2022 - Jun 2023), Technocryptics Frontend Developer (Aug 2022 - Jul 2023). Community Photographer since Aug 2020.}
-    \resumeItemListEnd
+\resumeSubHeadingListEnd
 
-    \resumeSubHeadingListEnd
+% ---------- SKILLS ----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+    \textbf{Languages:} JavaScript, Python, C, PHP, Shell \\
+    \textbf{Frontend:} React, Next.js, TailwindCSS, Polaris, Electron.js, Framer \\
+    \textbf{Backend:} Node.js, Express.js, MongoDB, PostgreSQL, Prisma, GraphQL, Firebase, AWS Lambda \\
+    \textbf{AI/ML:} LangChain, Pinecone, RAG Pipelines, OpenAI APIs, Tool-calling Agents, Custom ML Pipelines \\
+    \textbf{Tools:} Git, GitHub Actions, Docker, Figma, FFmpeg, Plaid API, Shopify APIs
+  }}
+\end{itemize}\vspace{-8pt}
 
-%----------- AWARDS & ACHIEVEMENTS -----------
+% ---------- EDUCATION ----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Rajasthan Technical University, Kota}{2021 -- 2025}
+    {B.Tech in Computer Science, University Department}{}
+\resumeSubHeadingListEnd
 
-\section{Awards \& Achievements}
-  \vspace{2pt}
-  \resumeSubHeadingListStart
-  \small{
-    \item{
-    
-    \textbf{LeanIn Hack IGDTUW 5.0 - Top Team:}{ Designed the Sakhi app for women's empowerment. (Feb 2024)}
-    
-    \textbf{HackJNU 3.0 Finalists:}{ Innovated an app addressing UN SDGs. (Jan 2024)}
-    
-    \textbf{Top 5 - IIT Bombay Techfest:}{ Developed MERNifier, an AI-powered stack assistant. (Dec 2023)}
-    
-    \textbf{Major League Hacking Hackathon Winner:}{ Awarded for exceptional project development. (Jun 2022)}
-    
-    \textbf{5th Product of the Day:}{ Achieved recognition for MDB on Product Hunt. (Mar 2021)}
+% ---------- ACHIEVEMENTS ----------
+\section{Achievements}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet]\small
+  \item Top Team at \textbf{LeanIn Hack IGDTUW 5.0}: Designed the Sakhi app for women's empowerment (Feb 2024)
+  \item Finalist at \textbf{HackJNU 3.0}: Built an app addressing UN Sustainable Development Goals (Jan 2024)
+  \item Top 5 at \textbf{IIT Bombay Techfest}: Built MERNifier, an AI-powered coding assistant using LangChain + Pinecone (Dec 2023)
+  \item \textbf{Major League Hacking} Hackathon Winner (Jun 2022)
+  \item \textbf{\#5 Product of the Day} on ProductHunt for Markdown Badges (Mar 2021)
+  \item \textbf{Google Developer Student Club Lead} (Jul 2023 -- Jul 2024)
+  \item 750K+ community photo views on \textbf{Pexels}, featured by India Today
+\end{itemize}
 
-    }}
-  \resumeSubHeadingListEnd
-
-%----------- PROJECTS -----------
-\section{Projects}
-    \resumeSubHeadingListStart
-    
-    \resumeProjectHeading{\textbf{Message Gator} | \emph{\href{http://mg.writewrap.in}{mg.writewrap.in}}}{}
-    \resumeItem{Created a SaaS platform enabling dynamic message and review integration, which includes interactive widgets and seamless website embedding.}
-    
-    \resumeProjectHeading{\textbf{Anomm} | \emph{\href{http://anomm.pushkaryadav.in}{anomm.pushkaryadav.in}}}{}
-    \resumeItem{Anomm is a free service to deliver anonymous messages directly to your telegram via bot. this can be integrated anywhere community reviews, confession pages, personal thoughts and a lot more.}
-    
-    \resumeProjectHeading{\textbf{Mernifier} | \emph{mernifier.itsvg.in}}{}
-    \resumeItem{Created an AI-powered coding assistant using Pinecone and LangChain, providing comprehensive development support.}
-    
-    \resumeItem{View a lot more projects on my \href{http://github.com/pushkarydv}{GitHub: pushkarydv} and \href{https://pushkaryadav.in}{portfolio: pushkaryadav.in}.}
-    
-    \resumeSubHeadingListEnd
-
-%-------------------------------------------
 \end{document}
